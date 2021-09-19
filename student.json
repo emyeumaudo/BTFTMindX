@@ -1,0 +1,32 @@
+[
+    {
+        "name": "nam",
+        "age": 23,
+        "gender": "Female",
+        "department": "History"
+    },
+    {
+        "name": "vc",
+        "age": 23,
+        "gender": "Female",
+        "department": "History"
+    },
+    {
+        "name": "fdsf",
+        "age": 23,
+        "gender": "Female",
+        "department": "History"
+    },
+    {
+        "name": "duke",
+        "age": 23,
+        "gender": "Female",
+        "department": "SKT"
+    },
+    {
+        "name": "duke",
+        "age": 23,
+        "gender": "Female",
+        "department": "IG"
+    }
+]
